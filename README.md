@@ -20,9 +20,9 @@ This is a simple Python GUI application built using `tkinter` and `sympy` for sy
    pip install sympy
    ```
 3. Run the application:
-  ```bash
-  python symbolic_math_tool.py
-  ```
+   ```bash
+   python symbolic_math_tool.py
+   ```
 ## Usage
 1. Enter a mathematical expression (e.g., `x**2 + 3*x`).
 2. Specify the variable with respect to which the operation is to be performed (e.g., `x`).
@@ -41,4 +41,4 @@ Notes:
 - Use Python's mathematical syntax for expressions (e.g., ** for power, sin(x) for sine).
  - The tool supports symbolic computation for any variable and expression supported by the sympy library.
 ## Author
-[Yaseen Saad]
+Yaseen Saad
